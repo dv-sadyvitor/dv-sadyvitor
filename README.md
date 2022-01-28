@@ -1,13 +1,9 @@
 ### Olá! Eu sou o Vitor Sady
 
-<!--
-**dv-sadyvitor/dv-sadyvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
 <div align="center">
   <a href="https://github.com/dv-sadyvitor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dv-sadyvitor&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dv-sadyvitor&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dv-sadyvitor&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   <div style="display: inline_block"><br>
